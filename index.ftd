@@ -76,7 +76,7 @@ spacing.fixed.px: 10
 
 -- button.secondary: 
 title: Hire me
-link: mailto:Pardhipragya135@gmail.com
+link: mailto:anjalilalwani510@gmail.com
 
 -- button.primary: 
 title: Schedule a Meeting
@@ -114,7 +114,7 @@ link: https://www.instagram.com/_anjali_lalwani/
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:Pardhipragy135@gmail.com
+link: mailto:anjalilalwani510@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
