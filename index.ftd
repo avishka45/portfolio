@@ -25,7 +25,7 @@ cta-item2: Resume
 cta-item2-link: https://drive.google.com/file/d/1Q2F86uS5AqHGMPQ-SR8fBTEdSrAXX2UD/view?usp=drivesdk 
 
 -- toast.stack: 
-title: Hello, I'm aspiring fastn developer based in India
+title: Hello, I'm aspiring developer based in India
 link: https://github.com/avishka45
 
 ;; -----------------------------------------------------
@@ -55,14 +55,13 @@ firstTitle: I'm
 secondTitle: Anjali Lalwani,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
-secondTitle: developer
-
+firstTitle: developer
+ 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
 secondTitle: explorer.
 
--- ftd.text: design and create functional and beautiful applications with passion and a focus on user experience and high quality.
+-- ftd.text: design and create functional and beautiful applications with passion and a focus on user experience and high quality.I'm a keen learner with an open mind for criticism and feedback.
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 width.fixed.px: 700
